@@ -2,3 +2,4 @@ streamlit==1.39.0
 torch==2.5.1
 diffusers==0.31.0
 pillow>=7.1.0,<11.0.0
+transformers==4.46.1
