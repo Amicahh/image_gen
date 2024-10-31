@@ -41,7 +41,7 @@ This Streamlit app generates unique images based on a text prompt and an optiona
 
 ## Requirements
 
-Ensure the following dependencies are in `requirements.txt`:
+Dependencies in `requirements.txt`:
 
 ```text
 streamlit
